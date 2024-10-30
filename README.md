@@ -22,7 +22,7 @@ A deep learning-powered web app that detects craters in images! Using a custom-t
 1. Run the web app (instructions below).
 2. Upload an image, and watch as craters are highlighted instantly!
 
-![Crater Detection Example](example_output.png)
+![image0](https://github.com/user-attachments/assets/d64fae88-080e-47cb-af72-4bc104a477fe)
 
 ---
 
